@@ -28,3 +28,9 @@ Now, from a security point of view, seeing such messages and guessing the cipher
 
 However, this is not always random. Most of the times, people use common ciphers or make their own ciphers by combining various ciphers. Today's challenge has a ciphertext which is nothing but the flag (the answer to the challenge that you have to submit) encrypted. Some other hints in the challenge might help you find the cipher!
 
+Some helpful tools (explore them)
+- [Cyberchef](https://gchq.github.io/CyberChef/)
+- [dcode](https://www.dcode.fr/en)
+
+Now if you use an internet tool to solve the challenge, try writing the algorithm of the cipher yourself in any programming language you know. If you don't know any, don't worry we'll teach you very soon!
+
