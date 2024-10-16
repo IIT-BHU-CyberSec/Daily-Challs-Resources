@@ -8,12 +8,12 @@ Lets see this with an example,
 Assume I define a new cipher, the wordplay cipher. This is a ciphertext (encrypted message) generated using this cipher
 
 ```
-only love leads to hope
+only love leads every heart
 ```
 Did you find something?
 Now what might seem like a rather controversial statement is actually a message. Wait let me make things easier.
 ```
-Only Love Leads To Hope
+Only Love Leads Every Heart
 ```
 See something now?
 Focus on the first letter and separate them out.
